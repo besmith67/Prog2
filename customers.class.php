@@ -257,6 +257,7 @@ class Customer {
             </head>
             <body>
                 <a href='https://github.com/besmith67/Prog2' target='_blank'>Github</a><br />
+                <a href='http://csis.svsu.edu/~besmith2/cis355/Prog02_Diagram' target='_blank'>Diagram</a><br />
                 <div class='container'>
                     <p class='row'>
                         <h3>$this->title" . "s" . "</h3>
